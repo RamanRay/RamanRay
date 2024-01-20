@@ -13,8 +13,8 @@
 - Coffee, photography, music and art are my happy places 
 - I enjoy bringing a static design or idea to life and learning new technologies.
 - Skilled in creating responsive designs, UI Design, HTML Emails and Frontend.
-<!-- - To be Graduated in 2025 with a B.E in Computer Science and Engineering from Chandigarh University
- - Currently working on a web application, software development for international travel -->
+- To be Graduated in 2025 with a B.E in Computer Science and Engineering from Chandigarh University.
+- Currently working on a web application, software development for international travel.
 
 <br>
 
