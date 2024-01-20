@@ -30,9 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-  <img scr="icons/mysql/mysql-plain.svg" title="MySql" alt="MySql" width="50" height="50"/>&nbsp;
-  <img scr="icons/python.svg" title="Python" alt="Python" width="50" height="50"/>
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/python.svg" title="Python" alt="Python" width="40" height="40"/>
   
  
 </div>
