@@ -2,7 +2,7 @@
 
 <br>
 . 
----
+
 <div align="center">
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/Raman_Ray?logo=Twitch&style=for-the-badge">
 </div>
